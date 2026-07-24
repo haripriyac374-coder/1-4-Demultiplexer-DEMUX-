@@ -1,0 +1,8 @@
+Time=0   D=1 S=00 Y0=1 Y1=0 Y2=0 Y3=0
+Time=10  D=1 S=01 Y0=0 Y1=1 Y2=0 Y3=0
+Time=20  D=1 S=10 Y0=0 Y1=0 Y2=1 Y3=0
+Time=30  D=1 S=11 Y0=0 Y1=0 Y2=0 Y3=1
+Time=40  D=0 S=00 Y0=0 Y1=0 Y2=0 Y3=0
+Time=50  D=0 S=01 Y0=0 Y1=0 Y2=0 Y3=0
+Time=60  D=0 S=10 Y0=0 Y1=0 Y2=0 Y3=0
+Time=70  D=0 S=11 Y0=0 Y1=0 Y2=0 Y3=0
